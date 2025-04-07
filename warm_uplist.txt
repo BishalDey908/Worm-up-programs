@@ -64,13 +64,13 @@ Slightly Advanced Problems:
 Implement a Simple Calculator
 Write a function that takes two numbers and an operator (+, -, *, /) and returns the result.
 
-Count Occurrences of a Character
+✅Count Occurrences of a Character
 Write a function that counts how many times a given character appears in a string.
 
 Check for Balanced Parentheses
 Write a function that checks if a string has balanced parentheses (e.g., "(())" is balanced, "(()" is not).
 
-Find the Intersection of Two Arrays
+✅Find the Intersection of Two Arrays
 Write a function that returns the common elements between two arrays.
 
 Implement a Basic Debounce Function
