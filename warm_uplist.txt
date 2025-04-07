@@ -1,0 +1,77 @@
+Basic Problems:
+✅Hello, World!
+Write a function that logs "Hello, World!" to the console.
+
+✅Sum of Two Numbers
+Write a function that takes two numbers as arguments and returns their sum.
+
+✅Check Even or Odd
+Write a function that checks if a given number is even or odd.
+
+✅Find the Largest Number
+Write a function that takes three numbers and returns the largest one.
+
+✅Reverse a String
+Write a function that reverses a given string (e.g., "hello" → "olleh").
+
+✅Factorial of a Number
+Write a function to compute the factorial of a number (e.g., 5! = 120).
+
+✅Check Palindrome
+Write a function that checks if a given string is a palindrome (e.g., "madam").
+
+✅Print Fibonacci Series
+Write a function to print the first n numbers in the Fibonacci sequence.
+
+✅Check Prime Number
+Write a function to check if a number is prime.
+
+✅Multiply Numbers in an Array
+Write a function that multiplies all numbers in an array and returns the product.
+
+Intermediate Problems:
+✅Find Missing Number
+Given an array containing numbers from 1 to n with one missing number, find the missing number.
+
+✅Remove Duplicates from Array
+Write a function that removes duplicate values from an array.
+
+✅Count Vowels in a String
+Write a function that counts the number of vowels in a given string.
+
+FizzBuzz
+Write a function that prints numbers from 1 to n. For multiples of 3, print "Fizz"; for multiples of 5, print "Buzz"; for multiples of both, print "FizzBuzz".
+
+✅Find Longest Word in a String
+Write a function that takes a sentence and returns the longest word.
+
+✅Title Case a Sentence
+Write a function that converts a sentence into title case (e.g., "hello world" → "Hello World").
+
+Check Anagrams
+Write a function that checks if two strings are anagrams (e.g., "listen" and "silent").
+
+Flatten a Nested Array
+Write a function that flattens a nested array (e.g., [1, [2, [3]]] → [1, 2, 3]).
+
+✅Find the Second Largest Number
+Write a function that finds the second largest number in an array.
+
+✅Capitalize First Letter of Each Word
+Write a function that capitalizes the first letter of each word in a string.
+
+Slightly Advanced Problems:
+Implement a Simple Calculator
+Write a function that takes two numbers and an operator (+, -, *, /) and returns the result.
+
+Count Occurrences of a Character
+Write a function that counts how many times a given character appears in a string.
+
+Check for Balanced Parentheses
+Write a function that checks if a string has balanced parentheses (e.g., "(())" is balanced, "(()" is not).
+
+Find the Intersection of Two Arrays
+Write a function that returns the common elements between two arrays.
+
+Implement a Basic Debounce Function
+Write a debounce function that delays invoking a function until after a certain time has passed.
