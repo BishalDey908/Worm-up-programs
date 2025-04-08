@@ -39,7 +39,7 @@ Write a function that removes duplicate values from an array.
 ✅Count Vowels in a String
 Write a function that counts the number of vowels in a given string.
 
-FizzBuzz
+✅FizzBuzz
 Write a function that prints numbers from 1 to n. For multiples of 3, print "Fizz"; for multiples of 5, print "Buzz"; for multiples of both, print "FizzBuzz".
 
 ✅Find Longest Word in a String
